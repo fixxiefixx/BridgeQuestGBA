@@ -1,0 +1,42 @@
+﻿#ifndef DEFINITIONS_H
+#define DEFINITIONS_H
+
+enum class Def{
+null,
+bat,
+knight,
+chest,
+tree_boss_minion,
+heart,
+heart_container,
+hero_house_indoor,
+overworld,
+hero_house,
+hero_house_upstairs,
+indoor,
+hero_house_downstairs,
+cave_left,
+hero_house_cave,
+cave_bottom,
+cave,
+hero_house_downstairs2,
+hero_house_upstairs2,
+chest_cave,
+cave2,
+lumberjack_house,
+builder_house,
+coins5,
+chest2,
+coins10,
+bed,
+lumberjack,
+chest_lumberjach_house,
+wood,
+builder,
+tree_boss,
+blocking_log,
+blocking_log_vertical,
+woodmimic,
+broken_bridge
+};
+#endif

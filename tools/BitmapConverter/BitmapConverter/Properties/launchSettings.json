@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "cquanttest": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Finn\\source\\repos\\cquanttest\\cquanttest\\bin\\Debug\\netcoreapp3.1\\test.bmp C:\\Users\\Finn\\source\\repos\\cquanttest\\cquanttest\\bin\\Debug\\netcoreapp3.1\\test_conv.bmp"
+    }
+  }
+}

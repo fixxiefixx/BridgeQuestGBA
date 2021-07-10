@@ -1,0 +1,31 @@
+Credits:
+
+This game is made with Butano Engine: https://github.com/GValiente/butano
+
+Programming:
+
+fixx
+
+Graphics:
+
+missingfox, fixx
+
+8x8 font created at Sparklin Labs by Pixel-boy: https://github.com/sparklinlabs/superpowers-asset-packs/blob/master/western-fps-2d/font-8x8.png
+
+Sound:
+
+fixx
+
+hero_attacked.wav sound by InspectorJ(freesound.org)
+
+Music:
+
+sadness music by THE IMPALER: https://modarchive.org/index.php?request=view_by_moduleid&query=167374
+
+forgottenone music vy Zilly Mike https://modarchive.org/index.php?request=view_by_moduleid&query=43235
+
+easter music by anonymous author from https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=442
+
+absolu music by m0d https://modarchive.org/index.php?request=view_by_moduleid&query=32703
+
+

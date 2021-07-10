@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TiledMapObjectsToCppHeader": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\devkitPro\\butano\\games\\gba_dev_jam_2021\\maps"
+    }
+  }
+}

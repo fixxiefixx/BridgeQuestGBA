@@ -1,0 +1,7 @@
+All graphics in the graphics folder except the gbajam_splash.bmp and the variable_8x8_font.bmp are made by missingfox and fixx and are distributed under CC BY-NC 4.0 license https://creativecommons.org/licenses/by-nc/4.0/
+variable_8x8_font.bmp font created at Sparklin Labs by Pixel-boy: https://github.com/sparklinlabs/superpowers-asset-packs/blob/master/western-fps-2d/font-8x8.png licensed under CC0 1.0 Universal license.
+The hero_attacked.wav sound by InspectorJ(freesound.org) is licensed under CC BY 3.0 license.
+The sadness.xm music by THE IMPALER is licensed by request for this game: https://modarchive.org/index.php?request=view_by_moduleid&query=167374
+The forgottenone.xm music by Zilly Mike is licensed under CC BY 3.0 license: https://modarchive.org/index.php?request=view_by_moduleid&query=43235
+The easter.it music by an anonymous author is licensed under public domain license: https://www.mutopiaproject.org/cgibin/piece-info.cgi?id=442
+The absolu.mod music by m0d is licensed under public domain license: https://modarchive.org/index.php?request=view_by_moduleid&query=32703

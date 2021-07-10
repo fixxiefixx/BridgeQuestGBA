@@ -1,0 +1,50 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.elf
+*.elfbin
+*.gba
+
+# Save files from emulator
+*.sav
+
+/build
+/.vscode
+/compile_and_run.bat
+/tools/TiledMapObjectsToCppHeader/TiledMapObjectsToCppHeader/.vs
+/tools/TiledMapObjectsToCppHeader/TiledMapObjectsToCppHeader/TiledMapObjectsToCppHeader/bin
+/tools/TiledMapObjectsToCppHeader/TiledMapObjectsToCppHeader/TiledMapObjectsToCppHeader/obj
+/make_clean.bat
+/generate_mapinfos.bat
+/tools/BitmapConverter/BitmapConverter/bin
+/tools/BitmapConverter/BitmapConverter/obj
+/gba_dev_jam_2021.ss1
